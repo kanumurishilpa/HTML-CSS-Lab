@@ -10,10 +10,6 @@
 
 Create a 3 page web site that consist of a bio page, blog page, and a 3rd page of you choosing(home, contact, etc.)
 
-##Unit Test
-
-No Unit Test
-
 ##Instructions
 
 1. Construct pages using HTML and CSS with the IDE of your choice
