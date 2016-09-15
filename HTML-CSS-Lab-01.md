@@ -18,11 +18,11 @@ No Unit Test
 
 1. Construct pages using HTML and CSS with the IDE of your choice
 2. use Git to track your changes
-3. All files should reside in a orderly file
+3. All files should reside in a organized folder structure
 4. All work should be posted to your git hub
  
 ##Requirements
-*CSS must me linked from an external filed
+*CSS must me linked from an external file
 *Must have at minimum 1 image file
 *Must contain a main navigation to move between pages
 *Blog page must contain at minimum 2 blog post
