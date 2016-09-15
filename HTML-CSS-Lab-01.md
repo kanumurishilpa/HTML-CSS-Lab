@@ -22,8 +22,8 @@ No Unit Test
 4. All work should be posted to your git hub
  
 ##Requirements
->CSS must me linked from an external filed
->must have at minimum 1 image file
->must contain a main navigation to move between pages
->Blog page must contain at minimum 2 blog post
->Final product must be posted to GitHub.com
+*CSS must me linked from an external filed
+*Must have at minimum 1 image file
+*Must contain a main navigation to move between pages
+*Blog page must contain at minimum 2 blog post
+*Final product must be posted to GitHub.com
